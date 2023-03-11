@@ -10,10 +10,12 @@ p {
 }
 
 h1
-{font-size: 24px;}
+{font-size: 30px;
+color: #9E9A9C;
+}
 h2
-{font-size: 22px;
-  font-weight: 700;}
+{font-size: 28px;
+  color: #9E9A9C;}
 
 
 
