@@ -1,7 +1,7 @@
 
 Contenu du repository
 
-Ce repository contient plusieurs fichiers et dossiers :
+Ce repository contient plusieurs fichiers
 
 Ceci est un repository pour mieux connaitre les poemes d'Andree Chedid. En plus, ca va m'aider a mieux comprendre Git et Github. 
 Je suis en train d'apprendre comment utiliser Git, GitHub, Gitbash, Gitlens, VS Code editor et beaucoup d'autre choses.
