@@ -3,9 +3,10 @@ Contenu du repository
 
 Ce repository contient plusieurs fichiers et dossiers :
 
+Ceci est un repository pour mieux connaitre les poemes d'Andree Chedid.
 
 poemes/ : un dossier qui contient quelques-uns des poèmes les plus célèbres d'Andree Chedid.
-romans/ : un dossier qui contient des informations sur les romans écrits par Andree Chedid.
+
 
 Comment contribuer ?
 
