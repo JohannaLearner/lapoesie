@@ -11,7 +11,6 @@ Another change to check whether it asks for my username and password.
 
 
 poemes/ : un dossier qui contient quelques-uns des poèmes les plus célèbres d'Andree Chedid.
-[label](mailto:joanne_learner%40outlook.com)
 
 Comment contribuer ?
 
