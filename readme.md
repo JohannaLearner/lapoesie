@@ -7,6 +7,7 @@ Ceci est un repository pour mieux connaitre les poemes d'Andree Chedid. En plus,
 Je suis en train d'apprendre comment utiliser Git, GitHub, Gitbash, Gitlens, VS Code editor et beaucoup d'autre choses.
 Another change to show the progress of my learning.  I'm going to push my changes to Github
 Another change to check whether it asks for my username and password.
+This is a change checking via GitLens
 
 
 
