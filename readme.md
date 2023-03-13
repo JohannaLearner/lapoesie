@@ -5,10 +5,11 @@ Ce repository contient plusieurs fichiers
 
 Ceci est un repository pour mieux connaitre les poemes d'Andree Chedid. En plus, ca va m'aider a mieux comprendre Git et Github. 
 Je suis en train d'apprendre comment utiliser Git, GitHub, Gitbash, Gitlens, VS Code editor et beaucoup d'autre choses.
+Another change to show the progress of my learning.  I'm going to push my changes to Github
 
 
 poemes/ : un dossier qui contient quelques-uns des poèmes les plus célèbres d'Andree Chedid.
-
+[label](mailto:joanne_learner%40outlook.com)
 
 Comment contribuer ?
 
