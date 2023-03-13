@@ -3,7 +3,8 @@ Contenu du repository
 
 Ce repository contient plusieurs fichiers et dossiers :
 
-Ceci est un repository pour mieux connaitre les poemes d'Andree Chedid. En plus, ca va m'aider a mieux comprendre Git et Github
+Ceci est un repository pour mieux connaitre les poemes d'Andree Chedid. En plus, ca va m'aider a mieux comprendre Git et Github. 
+Je suis en train d'apprendre comment utiliser Git, GitHub, Gitbash, Gitlens, VS Code editor et beaucoup d'autre choses.
 
 
 poemes/ : un dossier qui contient quelques-uns des poèmes les plus célèbres d'Andree Chedid.
