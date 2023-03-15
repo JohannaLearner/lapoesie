@@ -7,4 +7,23 @@ body {
   ul {
     list-style: none;
   }
-  
+  .menu {
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+
+
+  }
+
+  .item {
+    padding: 0 10px 0 10px;
+  }
+  .menuitem
+  {
+    color: #b39f0c;
+    text-decoration: none;}
+
+    .menuitem:hover {
+        color:#b30c8c;
+    }
