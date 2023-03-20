@@ -27,3 +27,21 @@ body {
     .menuitem:hover {
         color:#b30c8c;
     }
+
+    div {
+      
+      color: red;
+      font-size: 1em;
+      animation-name: example;
+      animation-duration: 2s;
+      animation-fill-mode: forwards;
+     animation-timing-function: ease-in-out;
+ 
+    }
+    
+    @keyframes example {
+     from{color: red;font-size: 1em;}
+     to {color: rgb(190, 45, 149); font-size: 1.2em;}
+      
+      
+    }
